@@ -1,0 +1,18 @@
+{
+  "name": "l1-welcome",
+  "version": "1.0.0",
+  "description": "Ett enkelt Javascript-program som hälsar en användare välkommen",
+  "main": "src/welcome.js",
+  "scripts": {
+    "start": "node src/welcome.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kl223py/L1-Welcome.git"
+  },
+  "keywords": [],
+  "author": "Kevin Lissov",
+  "license": "MIT",
+  "homepage": "https://github.com/kl223py/L1-Welcome#readme"
+}
